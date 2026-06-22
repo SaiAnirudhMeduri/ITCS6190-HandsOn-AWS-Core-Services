@@ -7,13 +7,13 @@ This assignment introduces how to use AWS core services to analyze a dataset. Am
 First, the dataset downloaded from Kaggle was uploaded into Amazon S3, then cataloged using AWS Glue, after which it was monitored using CloudWatch, and then finally it was queried using Amazon Athena. The SQL queries and their resulting CSV files are both stored in their queries and results folders respectively.
 
 ## Screenshots
-<img width="1000" height="500" alt="Screenshot 2026-06-19 at 10 40 38 AM" src="https://github.com/user-attachments/assets/28f18dee-3b76-4891-9a01-5a00ed8dc780" />
+<img width="1000" height="500" alt="Screenshot 2026-06-19 at 10 40 38 AM" src="https://github.com/user-attachments/assets/fb6cc540-2bdc-40f3-8f29-4d0e78fddf71" />
 
-<img width="1000" height="500" alt="Screenshot 2026-06-19 at 10 43 35 AM" src="https://github.com/user-attachments/assets/9fcf0095-50ae-4c5f-87b5-6aa8e288e614" />
+<img width="1000" height="500" alt="Screenshot 2026-06-19 at 10 43 35 AM" src="https://github.com/user-attachments/assets/89135464-c041-40e2-b695-224ad8c02198" />
 
-<img width="1000" height="500" alt="Screenshot 2026-06-19 at 10 52 36 AM" src="https://github.com/user-attachments/assets/8937b81f-15f6-4e81-810c-db3b58218ee2" />
+<img width="1000" height="500" alt="Screenshot 2026-06-19 at 10 52 36 AM" src="https://github.com/user-attachments/assets/4ff17fa6-024a-4700-9502-41812c7d9976" />
 
-<img width="1000" height="500" alt="Screenshot 2026-06-19 at 11 01 19 AM" src="https://github.com/user-attachments/assets/8131b801-3840-4c9e-ba72-2c845427e2d9" />
+<img width="1000" height="500" alt="Screenshot 2026-06-19 at 11 01 19 AM" src="https://github.com/user-attachments/assets/c25dc186-6a49-412e-a274-9fba598fd835" />
 
 > **Note:** Please refer to the initial project requirements in the [itcs6190_aws_core_services.pdf](https://github.com/ITCS6190-Summer2026/Hands-on-AWS-Core-Services/blob/main/itcs6190_aws_core_services.pdf) file before proceeding with the configurations below.
 
